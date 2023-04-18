@@ -1,0 +1,58 @@
+id,text,file,node,lineNumber
+line:04a539a,Player: Hola,NPC Cuci,Cuci.Start,7
+line:01eb270,Cuci: Holi,NPC Cuci,Cuci.Start,8
+line:0cd4144,"Cuci: A veces, me pregunto por qué soy tan gordo.",NPC Cuci,Cuci.Start,9
+line:06ddcb8,Player: Es porque el programador te hizo así.,NPC Cuci,Cuci.Start,10
+line:012ee16,Cuci: Tienes razón.,NPC Cuci,Cuci.Start,11
+line:09f377b,Cuci: Necesitas algo más?,NPC Cuci,Cuci.Start,16
+line:0d9c2db,Player: Nop.,NPC Cuci,Cuci.Start,17
+line:0d69c3c,"Cuci: Vamos amigo, hagamos unas sentadillas ahora!",NPC Cuci,Cuci.Start,21
+line:06b6331,Nop. Más tarde.,NPC Cuci,Cuci.Start,22
+line:076acf3,Hagámoslo rápido.,NPC Cuci,Cuci.Start,24
+line:0270508,Cuci: Dime si cambias de parecer.,NPC Cuci,Cuci.Start,23
+line:0e3a760,Cuci: <shake>GOOOOO</shake>,NPC Cuci,Cuci.Start,25
+line:048adca,Player: <shake>GOOOOOOO</shake>,NPC Cuci,Cuci.Start,26
+line:0b5dc56,Player: .....,NPC Cuci,Cuci.Start,33
+line:036a821,Cuci: Necesitas algo?,NPC Cuci,Cuci.Start,34
+line:0a994bb,Player: Quién eres tú?,NPC Cuci,Cuci.Start,35
+line:06ca57e,Cuci: Soy <color hex=0392cf>Cuci</color>.,NPC Cuci,Cuci.Start,36
+line:089ce83,Player: Necesito algo que debes tener.,NPC Cuci,Cuci.Start,37
+line:04c9766,Cuci: Qué es?,NPC Cuci,Cuci.Start,38
+line:0414a2a,Una papa,NPC Cuci,Cuci.Start,39
+line:04a766a,Un avión,NPC Cuci,Cuci.Start,46
+line:01349ac,Una lavadora,NPC Cuci,Cuci.Start,53
+line:03d4195,Cuci: Estás bromeando?,NPC Cuci,Cuci.Start,40
+line:025db66,Cuci: Nosotros no podemos morir de hambre aquí.,NPC Cuci,Cuci.Start,41
+line:0a99694,Cuci: Somos solo un programa de computadora.,NPC Cuci,Cuci.Start,42
+line:082291e,"Player: Tranquilo, viejo.",NPC Cuci,Cuci.Start,43
+line:0ae7d2c,Player: Solo te estaba haciendo una broma.,NPC Cuci,Cuci.Start,44
+line:0174720,"Player: En realidad, necesito una lavadora.",NPC Cuci,Cuci.Start,45
+line:0c7b0bf,Cuci: <wave>Hmmmm..</wave>,NPC Cuci,Cuci.Start,47
+line:078ba1f,Cuci: Para qué?,NPC Cuci,Cuci.Start,48
+line:04891e4,"Player: Entonces, ¿tienes un avión?",NPC Cuci,Cuci.Start,49
+line:0834812,Cuci: Por supuesto que no.,NPC Cuci,Cuci.Start,50
+line:0ac26ba,Player: .....,NPC Cuci,Cuci.Start,51
+line:0be44a3,Player: Qué tal una lavadora?,NPC Cuci,Cuci.Start,52
+line:065a58f,Cuci: .....,NPC Cuci,Cuci.Start,54
+line:0446e2b,"Cuci: Sí, todos necesitan eso.",NPC Cuci,Cuci.Start,55
+line:0edc38e,"Player: Si, pero lo necesito para otra cosa.",NPC Cuci,Cuci.Start,56
+line:0ed6c4d,Cuci: Está bien.,NPC Cuci,Cuci.Start,57
+line:046f500,Cuci: Tengo uno viejo que ya no necesito.,NPC Cuci,Cuci.Start,58
+line:00ef8f8,"Cuci: Sí, claro, este.",NPC Cuci,Cuci.Start,59
+line:01f18b8,"Player: <shake>Cool!</shake> Dámela, ahora!",NPC Cuci,Cuci.Start,60
+line:0f35a1f,Cuci: No tan rápido.,NPC Cuci,Cuci.Start,61
+line:04c9f5f,Player: .....,NPC Cuci,Cuci.Start,62
+line:0ab7bc8,Cuci: Hagamos un concurso.,NPC Cuci,Cuci.Start,63
+line:07b25b4,Cuci: Un concurso de sentadillas!,NPC Cuci,Cuci.Start,64
+line:0d44dac,Player: .....,NPC Cuci,Cuci.Start,65
+line:011d776,Cuci: Te lo daré si puedes derrotarme.,NPC Cuci,Cuci.Start,66
+line:0781eea,No. Más tarde.,NPC Cuci,Cuci.Start,67
+line:0355e89,Hagámoslo rápido.,NPC Cuci,Cuci.Start,69
+line:066482d,Cuci: Dime si cambias de parecer.,NPC Cuci,Cuci.Start,68
+line:04f2841,Cuci: <shake>GOOOOO</shake>,NPC Cuci,Cuci.Start,70
+line:09383d0,Player: <shake>GOOOOOOO</shake>,NPC Cuci,Cuci.Start,71
+line:0bed9d8,Cuci: Bien jugado.,NPC Cuci,Cuci.AfterGame,81
+line:05c851e,Player: Ni siquiera fue un concurso.,NPC Cuci,Cuci.AfterGame,82
+line:08b70b3,Cuci: Nada mal para una principiante.,NPC Cuci,Cuci.AfterGame,84
+line:03709ee,Cuci: Ojalá tenga suerte la próxima vez.,NPC Cuci,Cuci.AfterGame,85
+line:0e170da,Player: Si.,NPC Cuci,Cuci.AfterGame,86

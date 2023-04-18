@@ -1,0 +1,76 @@
+id,text,file,node,lineNumber
+line:0e9b400,Player: Ey!,NPC Tawall,Tawall.Start,7
+line:02d5e98,"Tawall: Hola, joven.",NPC Tawall,Tawall.Start,8
+line:0a91081,Player: Conoces a  <color hex=0392cf>Anak</color>?,NPC Tawall,Tawall.Start,9
+line:0b19f54,"Player: Esta es su casa, verdad?",NPC Tawall,Tawall.Start,10
+line:03722a9,"Tawall: Por supuesto que conozco a <color hex=0392cf>Anak</color>,",NPC Tawall,Tawall.Start,11
+line:0ebe496,Tawall: Lo se todo.,NPC Tawall,Tawall.Start,12
+line:0b8826b,Uh seguro,NPC Tawall,Tawall.Start,13
+line:0ca25f3,Donde esta el?,NPC Tawall,Tawall.Start,14
+line:0a20485,Player: Su papá está realmente preocupado.,NPC Tawall,Tawall.Start,15
+line:0cb2eec,Player: Necesito algo de él.,NPC Tawall,Tawall.Start,16
+line:0c006de,Tawall: Te refieres a las partes de mundo?,NPC Tawall,Tawall.Start,17
+line:0b8d270,Como sabes eso?,NPC Tawall,Tawall.Start,18
+line:09308d3,Sipi,NPC Tawall,Tawall.Start,23
+line:0905e58,"Tawall: Como dije,",NPC Tawall,Tawall.Start,19
+line:0cfa34a,Tawall: Lo se todo.,NPC Tawall,Tawall.Start,20
+line:077b52c,Player: B-bueno,NPC Tawall,Tawall.Start,21
+line:04677b9,Tawall: <color hex=0392cf>Anak</color> ha tomado una mala decisión.,NPC Tawall,Tawall.Start,24
+line:0f058c0,"Tawall: Y ahora, <color hex=0392cf>Anak</color> es mantenido cautivo por la banda de Malware.",NPC Tawall,Tawall.Start,25
+line:079d9b4,Qué??,NPC Tawall,Tawall.Start,26
+line:06122ba,Genial,NPC Tawall,Tawall.Start,27
+line:07cc923,"Player: Cómo sabes todo esto, de todos modos?",NPC Tawall,Tawall.Start,28
+line:08ce22d,"Tawall: Como dije,",NPC Tawall,Tawall.Start,29
+line:0541610,"Player: sí, sí, lo sabes todo.",NPC Tawall,Tawall.Start,31
+line:0f7f150,Tawall: Lo se todo.,NPC Tawall,Tawall.Start,33
+line:04c4ae3,Player: <wave>Bueno</wave>,NPC Tawall,Tawall.Start,34
+line:0d5bfc1,Player: Si realmente lo sabes todo,NPC Tawall,Tawall.Start,36
+line:000d3f4,"Player: Entonces sabes dónde está la banda de Malware, ¿verdad?",NPC Tawall,Tawall.Start,37
+line:0b0c909,"Tawall: Por supuesto,",NPC Tawall,Tawall.Start,38
+line:00a2b1e,Tawall: Ellos están en su escondite.,NPC Tawall,Tawall.Start,39
+line:0be78c6,Tawall: Es el edificio del lado opuesto de esta calle.,NPC Tawall,Tawall.Start,40
+line:0bd929f,"Player: Uh,",NPC Tawall,Tawall.Start,41
+line:0bf72f5,"Player: Puede que lo sepas todo, después de todo.",NPC Tawall,Tawall.Start,42
+line:0c76f83,Tawall: Lo hago.,NPC Tawall,Tawall.Start,43
+line:0968115,Gracias!,NPC Tawall,Tawall.Start,44
+line:0ed15bd,Rarito.,NPC Tawall,Tawall.Start,45
+line:0133882,Tawall: Sabía que ibas a decir eso.,NPC Tawall,Tawall.Start,46
+line:0f7f85e,Player: <wave>Como sea...</wave>,NPC Tawall,Tawall.Start,47
+line:02c0d7e,Player: Uh.. Hola?,NPC Tawall,Tawall.Visited,53
+line:0431b7d,"Tawall: Hola,",NPC Tawall,Tawall.Visited,54
+line:0410910,Tawall: Algo en mente?,NPC Tawall,Tawall.Visited,55
+line:0fd83d6,"Actualmente, si",NPC Tawall,Tawall.Visited,56
+line:0ec083f,Nop,NPC Tawall,Tawall.Visited,57
+line:0e245a3,Tawall: Qué es?,NPC Tawall,Tawall.Questions,62
+line:05352fb,Quién eres tú?,NPC Tawall,Tawall.Questions,63
+line:03a2cfb,De verdad lo sabes todo?,NPC Tawall,Tawall.Questions,70
+line:07db516,Nada,NPC Tawall,Tawall.Questions,95
+line:003dc62,Tawall: Mi nombre es <color hex=0392cf>Tawall</color>.,NPC Tawall,Tawall.Questions,64
+line:024e4fd,Tawall: Llevo aquí desde que tengo uso de razón.,NPC Tawall,Tawall.Questions,65
+line:013642a,Entonces.. eres viejo?,NPC Tawall,Tawall.Questions,66
+line:0b7a93c,Vaya,NPC Tawall,Tawall.Questions,68
+line:02380ce,"Tawall: Eso lo resume todo, sí.",NPC Tawall,Tawall.Questions,67
+line:09a94af,"Tawall: Como dije,",NPC Tawall,Tawall.Questions,71
+line:0e4e912,Tawall: Lo se TODO,NPC Tawall,Tawall.Questions,72
+line:021cf9b,"Player: Sí, pero todo, todo?",NPC Tawall,Tawall.Questions,73
+line:053470d,Tawall: <wave>TODO.</wave>,NPC Tawall,Tawall.Questions,74
+line:05cd1d2,Puedes leer mentes?,NPC Tawall,Tawall.Questions,75
+line:0d94888,Pero cómo?,NPC Tawall,Tawall.Questions,77
+line:0b11f30,No te creo,NPC Tawall,Tawall.Questions,92
+line:0655471,Tawall: No puedo.,NPC Tawall,Tawall.Questions,76
+line:06162e8,Tawall: Es mi trabajo saber hacerlo.,NPC Tawall,Tawall.Questions,78
+line:0eb10a1,Tawall: Así como es tu trabajo cargar el juego.,NPC Tawall,Tawall.Questions,79
+line:007b962,"Player: Entonces, es tu función principal saberlo todo?",NPC Tawall,Tawall.Questions,80
+line:0bffad5,"Tawall: Más o menos, sí.",NPC Tawall,Tawall.Questions,81
+line:0e38bbe,No lo entiendo,NPC Tawall,Tawall.Questions,82
+line:00d9c4c,Qué hiciste con todo ese conocimiento?,NPC Tawall,Tawall.Questions,87
+line:00093e9,"Tawall: Está bien, probablemente no lo entenderás.",NPC Tawall,Tawall.Questions,83
+line:0f162ed,Player: Estás diciendo que soy una tonta?,NPC Tawall,Tawall.Questions,84
+line:0fc87be,"Tawall: No tonta, solo menos informada.",NPC Tawall,Tawall.Questions,85
+line:0a3489b,Player: Imbécil.,NPC Tawall,Tawall.Questions,86
+line:0bc6ac7,Tawall: Nada.,NPC Tawall,Tawall.Questions,88
+line:07fbcce,Tawall: No es mi trabajo hacer nada con eso.,NPC Tawall,Tawall.Questions,89
+line:01a6a3b,Player: Pero podrías hacer tanto!,NPC Tawall,Tawall.Questions,90
+line:0ad3d42,"Player: Si realmente lo sabes todo, eso es.",NPC Tawall,Tawall.Questions,91
+line:038d0a3,Tawall: Eso es comprensible.,NPC Tawall,Tawall.Questions,93
+line:0639ee3,Tawall: Qué tengas un lindo día!,NPC Tawall,Tawall.Exit,101

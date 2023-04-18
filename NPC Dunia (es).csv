@@ -1,0 +1,131 @@
+id,text,file,node,lineNumber
+line:0a765de,"Dunia: Gracias por hacer esto, <color hex=FF97A8>Memu@</color>!",NPC Dunia,Dunia.Start,8
+line:0c44623,Dunia: Espero que no le pase nada a mi chico..,NPC Dunia,Dunia.Start,9
+line:090c4f8,"Player: Hola, <color hex=0392cf>Dunia</color>!",NPC Dunia,Dunia.Start,13
+line:0f0ba4e,"Dunia: <wave>Oh, uh..</wave>",NPC Dunia,Dunia.Start,14
+line:0c27bba,"Dunia: Ey, <color hex=FF97A8>Memu@</color>.",NPC Dunia,Dunia.Start,15
+line:00eeb7d,Dunia: ...,NPC Dunia,Dunia.Start,16
+line:0f2a911,Qué ocurre?,NPC Dunia,Dunia.Start,17
+line:02e1b0f,La barra de carga se atascó,NPC Dunia,Dunia.Start,18
+line:0a3bcf5,Dunia: Quiero decir..,NPC Dunia,Dunia.Wrong,23
+line:03780a6,"Dunia: Ah, está bien. Nada de que preocuparse.",NPC Dunia,Dunia.Wrong,24
+line:08a6926,Dunia: No quiero perder tu tiempo.,NPC Dunia,Dunia.Wrong,25
+line:05036c7,Puedes decirme,NPC Dunia,Dunia.Wrong,26
+line:0f239f6,Está bien para mí,NPC Dunia,Dunia.Wrong,36
+line:0bbd12c,Dunia: Estas segura?,NPC Dunia,Dunia.Wrong,27
+line:07f3931,"Dunia: Bueno, cómo digo esto..",NPC Dunia,Dunia.Wrong,28
+line:042d983,Decir que?,NPC Dunia,Dunia.Wrong,29
+line:03d9e6d,Escúpelo ahora!,NPC Dunia,Dunia.Wrong,30
+line:0223172,"Dunia: I messed up, <color hex=FF97A8>Memu@</color>",NPC Dunia,Dunia.Wrong,31
+line:0571c4b,"Dunia: <shake>Lo arruiné, a lo grande! </shake>",NPC Dunia,Dunia.Wrong,32
+line:0c6aa4d,Player: <shake>Qué sucedió?</shake>,NPC Dunia,Dunia.Wrong,33
+line:091c5cd,"Player: De todos modos, la carga se atascó.",NPC Dunia,Dunia.Wrong,37
+line:0aab5b1,Player: Es algo relacionado a ti?,NPC Dunia,Dunia.Stuck,43
+line:0d548e8,Player: Podría ser que algo anda mal con tu generación del mundo?,NPC Dunia,Dunia.Stuck,44
+line:07051a8,"Player: He comprobado con  <color hex=FF97A8>Oneka</color>,",NPC Dunia,Dunia.Stuck,46
+line:0365e42,Player: Parece que todos sus personajes están listos.,NPC Dunia,Dunia.Stuck,47
+line:0e1e897,Dunia: uh..,NPC Dunia,Dunia.Stuck,49
+line:0616891,"Dunia: Realmente lo siento, <color hex=FF97A8>Memu@</color>",NPC Dunia,Dunia.Stuck,50
+line:02991dd,Player: Por qué?,NPC Dunia,Dunia.Stuck,51
+line:0b50e13,"Dunia: Es mi culpa,",NPC Dunia,Dunia.Stuck,52
+line:0c46e3a,Dunia: La carga se atascó por mi culpa...,NPC Dunia,Dunia.Stuck,53
+line:04fa19c,Dunia: <wave>*solloza*</wave>,NPC Dunia,Dunia.Stuck,54
+line:032d3f0,Tranquilo,NPC Dunia,Dunia.Stuck,55
+line:02e9ba0,Que. qué??,NPC Dunia,Dunia.Stuck,56
+line:062fd51,"Dunia: Es mi hijo, <color hex=0392cf>Anak</color>",NPC Dunia,Dunia.Problem,62
+line:0465db0,Dunia: Se supone que traería algunos trozos del mundo aquí,NPC Dunia,Dunia.Problem,63
+line:0292629,Dunia: Pero aún no ha aparecido!,NPC Dunia,Dunia.Problem,64
+line:0b63007,"Player: Espera, es por eso que la carga se atascó?",NPC Dunia,Dunia.Problem,66
+line:01e3ea9,Dunia: <wave>Huaa .. De verdad lo siento! </wave>,NPC Dunia,Dunia.Problem,67
+line:05c9cfd,Player: Tienes que estar bromeando!,NPC Dunia,Dunia.Problem,69
+line:0e46ea2,Player: Entonces los datos del mundo todavía están en él?,NPC Dunia,Dunia.Problem,70
+line:059f64d,Dunia: Sí.,NPC Dunia,Dunia.Problem,71
+line:07d60b9,Dunia: No es propio de él llegar tan tarde.,NPC Dunia,Dunia.Problem,72
+line:0d768bf,Dunia: Le debe haber pasado algo!,NPC Dunia,Dunia.Problem,73
+line:09ccd06,Dunia: *solloza*,NPC Dunia,Dunia.Problem,74
+line:0876e4f,Dunia: Puedes encontrarlo?  Puedes averiguar lo que está pasando?,NPC Dunia,Dunia.Problem,75
+line:027e822,Dunia: <wave>Por favooor.</wave>,NPC Dunia,Dunia.Problem,76
+line:0432493,Por supuesto que si,NPC Dunia,Dunia.Problem,77
+line:0aa7701,"Ash, que molestia",NPC Dunia,Dunia.Problem,81
+line:0cfef10,"Player: Estoy segura de que está bien,",NPC Dunia,Dunia.Problem,78
+line:050aa4d,Player: Pero voy a descubrir qué le pasó!,NPC Dunia,Dunia.Problem,79
+line:0813b6a,"Player: De todos modos, necesito hacer que el juego cargue.",NPC Dunia,Dunia.Problem,80
+line:03a53ac,"Player: Pero supongo que no tengo otra opción, verdad?",NPC Dunia,Dunia.Problem,82
+line:0345468,"Player: De todos modos, necesito hacer que el juego cargue.",NPC Dunia,Dunia.Problem,83
+line:0705fa0,"Player: Bien, lo encontraré.",NPC Dunia,Dunia.Problem,84
+line:04fab0d,Dunia: <shake>De verdad??</shake>,NPC Dunia,Dunia.Problem,85
+line:0fcb02c,"Dunia: Muchas gracias, <color hex=FF97A8>Memu@</color>!",NPC Dunia,Dunia.Problem,86
+line:0eefd3b,Player: Tienes alguna idea de por dónde debería empezar?,NPC Dunia,Dunia.Problem,87
+line:0207350,"Dunia: Revisa nuestra casa,",NPC Dunia,Dunia.Problem,88
+line:0ba5c0c,"Dunia: es una pequeña casa al suroeste de aquí,",NPC Dunia,Dunia.Problem,89
+line:0e09323,Dunia: No la perderás de vista.,NPC Dunia,Dunia.Problem,90
+line:0ad82eb,Player: Iré a fijarme.,NPC Dunia,Dunia.Problem,91
+line:0c91733,Dunia: Gracias!,NPC Dunia,Dunia.Problem,92
+line:0790cfc,Dunia: <color hex=FF97A8>Memu@</color>!,NPC Dunia,Dunia.End,100
+line:0df4eba,Dunia: Lo hiciste!,NPC Dunia,Dunia.End,101
+line:0e7df0a,"Dunia: <color hex=0392cf>Anak</color> está aquí ahora,",NPC Dunia,Dunia.End,102
+line:0579536,Dunia: con todos los trozos del mundo que necesitamos!,NPC Dunia,Dunia.End,103
+line:0219b26,"Player: Eso es bueno de escuchar, <color hex=0392cf>Dunia</color>!",NPC Dunia,Dunia.End,104
+line:08f3ca4,Dunia: Pero qué fue lo que pasó?,NPC Dunia,Dunia.End,105
+line:075737b,Fue capturado por Malware Gang,NPC Dunia,Dunia.End,106
+line:0561307,No te preocupes por eso,NPC Dunia,Dunia.End,112
+line:08ca97b,Dunia: <shake>El fue que ??</shake>,NPC Dunia,Dunia.End,107
+line:01f5fc4,Dunia: <shake>Cómo??</shake>,NPC Dunia,Dunia.End,108
+line:0c59474,"Player: No estoy segura,",NPC Dunia,Dunia.End,109
+line:072ada8,Player: Deberías preguntárselo tú mismo.,NPC Dunia,Dunia.End,110
+line:06cb3ff,"Dunia: Oh, tiene tanto que explicar!",NPC Dunia,Dunia.End,111
+line:0146513,Player: El esta bien ahora,NPC Dunia,Dunia.End,113
+line:0d34cf2,Player: Eso es lo importante.,NPC Dunia,Dunia.End,114
+line:0387be2,"Dunia: Tienes razón,",NPC Dunia,Dunia.End,115
+line:0e8e358,Dunia: Pero todavía,NPC Dunia,Dunia.End,116
+line:00e761f,"Dunia: Muchas gracias, <color hex=FF97A8>Memu@</color>!",NPC Dunia,Dunia.End,117
+line:09ec403,Dunia: Ahora carguemos estos datos en el sistema!,NPC Dunia,Dunia.End,118
+line:0b6f190,Finalmente!,NPC Dunia,Dunia.End,119
+line:059a2cc,Hagámoslo!,NPC Dunia,Dunia.End,120
+line:06463c5,Dunia: Aquí vamos!,NPC Dunia,Dunia.End,121
+line:04332d0,Player: <shake>Yey!</shake>,NPC Dunia,Dunia.End,122
+line:0154df0,Dunia: *clunk*,NPC Dunia,Dunia.End,123
+line:0fe7f87,Dunia: *clunk*,NPC Dunia,Dunia.End,124
+line:0be3bff,Dunia: ...,NPC Dunia,Dunia.End,125
+line:0135244,Dunia: <wave>En cualquier momento..</wave>,NPC Dunia,Dunia.End,126
+line:049ad84,Dunia: ...,NPC Dunia,Dunia.End,127
+line:03a28ed,Dunia: ...,NPC Dunia,Dunia.End,128
+line:095bcb6,Dunia: ...,NPC Dunia,Dunia.End,129
+line:063e29d,Dunia: <wave>Oh dulces de azúcar.</wave>,NPC Dunia,Dunia.End,130
+line:07c09da,Qué pasa?,NPC Dunia,Dunia.End,131
+line:036ebb6,La carga sigue estancada,NPC Dunia,Dunia.End,132
+line:090df1a,"Dunia: Uh, esto no te gustará..",NPC Dunia,Dunia.End,133
+line:00453bd,Cómo? qué?,NPC Dunia,Dunia.End,134
+line:0f81a04,Dunia...,NPC Dunia,Dunia.End,135
+line:0b4edfc,Dunia: Parece..,NPC Dunia,Dunia.End,136
+line:02fd919,"Dunia: uh,",NPC Dunia,Dunia.End,137
+line:0064cfc,Dunia: los datos se corrompieron..,NPC Dunia,Dunia.End,138
+line:0b3e7ef,Lo dices en serio?,NPC Dunia,Dunia.End,139
+line:0350385,No ahora,NPC Dunia,Dunia.End,140
+line:079dc08,QUÉ?,NPC Dunia,Dunia.End,141
+line:0c400d1,Player: <shake>Cómo ??</shake>,NPC Dunia,Dunia.End,142
+line:061dba6,Player: Qué hay de nuevo con la carga?,NPC Dunia,Dunia.End,143
+line:074bf37,Dunia: Me temo que la carga fallará,NPC Dunia,Dunia.End,144
+line:0c1a6c0,Player: Maldita sea!,NPC Dunia,Dunia.End,145
+line:003aba1,Player: ¡Este es oficialmente el día más de mi*rda de todos!,NPC Dunia,Dunia.End,146
+line:03b45f9,Dunia: Lo sé,NPC Dunia,Dunia.End,147
+line:0296339,Dunia: Lo siento..,NPC Dunia,Dunia.End,148
+line:0b68159,Oh bueno,NPC Dunia,Dunia.End,149
+line:0378ff8,Me moriré,NPC Dunia,Dunia.End,152
+line:0abe5ec,Player: No te preocupes,NPC Dunia,Dunia.End,150
+line:041cf1f,"Player: Seguro que sucederá, de cualquier manera",NPC Dunia,Dunia.End,151
+line:0f6915b,Player: Oh no,NPC Dunia,Dunia.End,153
+line:06f7466,Player: No no no no,NPC Dunia,Dunia.End,154
+line:014a936,Player: Argghh!,NPC Dunia,Dunia.End,155
+line:09c1bea,Player: ...,NPC Dunia,Dunia.End,156
+line:0d29119,Player: ...,NPC Dunia,Dunia.End,157
+line:05915ae,Dunia: Uh..,NPC Dunia,Dunia.End,158
+line:0635f26,Dunia: Estás bien?,NPC Dunia,Dunia.End,159
+line:07bea60,Estoy bien,NPC Dunia,Dunia.End,160
+line:02bc5f7,Carajo no lo estoy!,NPC Dunia,Dunia.End,161
+line:01bea1a,Player: El juego no se cargará hoy...,NPC Dunia,Dunia.End,162
+line:0f6ecc5,Player: Y estoy a punto de perder mi trabajo,NPC Dunia,Dunia.End,163
+line:0bb7d27,Player: ...,NPC Dunia,Dunia.End,164
+line:0498a9a,Dunia: ...,NPC Dunia,Dunia.End,165
+line:03bc1f1,"Player: Eh,",NPC Dunia,Dunia.End,166
+line:0dbd4e4,"Player: Es un trabajo de m*erda, de todos modos!",NPC Dunia,Dunia.End,167

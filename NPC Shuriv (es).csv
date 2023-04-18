@@ -1,0 +1,79 @@
+id,text,file,node,lineNumber
+line:0e47d2a,"Shuriv: Bueno bueno,",NPC Shuriv,Shuriv.Start,14
+line:06998ce,Shuriv: Mira lo que tenemos aquí.,NPC Shuriv,Shuriv.Start,15
+line:0d1aa15,"Player: Entonces, eres el líder?",NPC Shuriv,Shuriv.Start,16
+line:0e08daa,Shuriv: Quién pregunta?,NPC Shuriv,Shuriv.Start,17
+line:03c3e8b,Player: Soy <color hex=FF97A8>Memu@</color>,NPC Shuriv,Shuriv.Start,18
+line:0121e92,Player: Soy responsable de cargar el juego.,NPC Shuriv,Shuriv.Start,19
+line:01e05c8,"Shuriv: Bien hallado, <color hex=FF97A8>Memu@</color>",NPC Shuriv,Shuriv.Start,20
+line:0cee987,"Shuriv: Soy <color hex=0392cf>Shuriv</color>,",NPC Shuriv,Shuriv.Start,21
+line:002592a,Shuriv: El dueño de este excelente establecimiento.,NPC Shuriv,Shuriv.Start,22
+line:0b9ddaf,Shuriv: Entonces por qué estás aquí?,NPC Shuriv,Shuriv.Start,23
+line:04ebffd,Dónde está Anak?,NPC Shuriv,Shuriv.Start,24
+line:03230e3,La carga se atascó,NPC Shuriv,Shuriv.Start,28
+line:0d87073,Shuriv: <color hex=0392cf>Anak</color>?,NPC Shuriv,Shuriv.Start,25
+line:039bbcf,Shuriv: El esta justo alli,NPC Shuriv,Shuriv.Start,26
+line:0907f51,Shuriv: Por qué?,NPC Shuriv,Shuriv.Start,27
+line:01c6b6c,Player: <color hex=0392cf>Anak</color> tiene los datos que necesito,NPC Shuriv,Shuriv.Start,29
+line:0f341d8,Player: Así que necesito que lo liberes.,NPC Shuriv,Shuriv.Start,30
+line:0481c75,Shuriv: Es eso así?,NPC Shuriv,Shuriv.Start,31
+line:08e1d15,Shuriv: En qué me beneficio yo?,NPC Shuriv,Shuriv.Start,32
+line:0f58456,"Shuriv: Perdió una apuesta y trató de escapar, ya sabes.",NPC Shuriv,Shuriv.Start,33
+line:0058a21,Qué es lo que quieres?,NPC Shuriv,Shuriv.Start,34
+line:09a1b51,No es mi problema,NPC Shuriv,Shuriv.Start,35
+line:0030787,Shuriv: Pero es..,NPC Shuriv,Shuriv.Start,36
+line:0fae057,Shuriv: Obviamente lo necesitas.,NPC Shuriv,Shuriv.Start,37
+line:09ff690,Player: Ugh. bueno.,NPC Shuriv,Shuriv.Start,38
+line:09b35ab,Shuriv: Mira.,NPC Shuriv,Shuriv.Start,39
+line:03471be,Shuriv: Vamos a hacer un trato.,NPC Shuriv,Shuriv.Start,40
+line:0a3c7a1,Shuriv: Consígueme algunos objetos y lo soltaré.,NPC Shuriv,Shuriv.Start,41
+line:0a1fbe0,Bastante justo,NPC Shuriv,Shuriv.Start,42
+line:04c52e8,Que objetos?,NPC Shuriv,Shuriv.Start,43
+line:003af7c,Shuriv: Necesito que me traigas,NPC Shuriv,Shuriv.Start,44
+line:0ca75d4,"Shuriv: Una lavadora,",NPC Shuriv,Shuriv.Start,45
+line:013aefb,Shuriv: y una bañera.,NPC Shuriv,Shuriv.Start,46
+line:0de3c9a,Okay,NPC Shuriv,Shuriv.Start,47
+line:0033449,Qué?,NPC Shuriv,Shuriv.Start,48
+line:0f99a1a,"Shuriv: Una lavadora,",NPC Shuriv,Shuriv.Start,49
+line:0672816,Shuriv: y una bañera.,NPC Shuriv,Shuriv.Start,50
+line:0103a64,"Player: Te escuché,",NPC Shuriv,Shuriv.Start,51
+line:018be0c,"Player: Pero, ¿por qué los necesitas?",NPC Shuriv,Shuriv.Start,52
+line:024248d,"Shuriv: Bueno, ¿quién no?",NPC Shuriv,Shuriv.Start,53
+line:06a96e7,Player: ...,NPC Shuriv,Shuriv.Start,54
+line:0a6c75b,Player: Buen punto.,NPC Shuriv,Shuriv.Start,55
+line:01728fc,Shuriv: Deberías poder encontrarlos alrededor de esta ciudad.,NPC Shuriv,Shuriv.Start,56
+line:032f756,Shuriv: Es posible que necesites persuadir a los propietarios para que te los den.,NPC Shuriv,Shuriv.Start,57
+line:0112c57,Que molestia,NPC Shuriv,Shuriv.Start,58
+line:07297f8,Conseguiré los objetos para ti,NPC Shuriv,Shuriv.Start,66
+line:0f2252a,Player: No puedes buscarlos tú mismo?,NPC Shuriv,Shuriv.Start,59
+line:082d269,Player: No quiero buscar una lavadora,NPC Shuriv,Shuriv.Start,60
+line:06ca4f8,Player: y una maldita bañera!,NPC Shuriv,Shuriv.Start,61
+line:0b6174a,"Shuriv: Bueno, entonces no soltaré a <color hex=0392cf>Anak</color>",NPC Shuriv,Shuriv.Start,62
+line:093d07d,Player: <wave>*suspiro*.</wave>,NPC Shuriv,Shuriv.Start,63
+line:0398988,"Player: Realmente no tengo elección, ¿verdad?",NPC Shuriv,Shuriv.Start,64
+line:028714e,Shuriv: Nop.,NPC Shuriv,Shuriv.Start,65
+line:048800f,Player: Una lavadora..,NPC Shuriv,Shuriv.Start,67
+line:01e35bb,Player: Y una maldita bañera.,NPC Shuriv,Shuriv.Start,68
+line:04a61d8,Shuriv: Bien!,NPC Shuriv,Shuriv.Start,69
+line:0669146,Shuriv: No vuelvas a menos que los tengas!,NPC Shuriv,Shuriv.Start,70
+line:0d6c9bd,Shuriv: Por qué sigues aquí?,NPC Shuriv,Shuriv.Complete,76
+line:040971a,Shuriv: Quieres unirte a nuestra pandilla o algo?,NPC Shuriv,Shuriv.Complete,77
+line:0a108df,Puedo?,NPC Shuriv,Shuriv.Complete,78
+line:0ddacd3,"No, gracias",NPC Shuriv,Shuriv.Complete,81
+line:07a3e26,"Shuriv: No,",NPC Shuriv,Shuriv.Complete,79
+line:02ceda6,Shuriv: no podrás superarlo,NPC Shuriv,Shuriv.Complete,80
+line:0b60642,Shuriv: Tráeme estos objetos:,NPC Shuriv,Shuriv.Reminder,86
+line:0b62e33,"Shuriv: Una lavadora,",NPC Shuriv,Shuriv.Reminder,87
+line:0844a29,Shuriv: y una bañera.,NPC Shuriv,Shuriv.Reminder,88
+line:01e81e7,"Player: Aquí,",NPC Shuriv,Shuriv.GiveItems,94
+line:0fa33d9,Player: Tengo tu lavadora y tu bañera!,NPC Shuriv,Shuriv.GiveItems,95
+line:0368786,"Shuriv: Ahh, buen trabajo.",NPC Shuriv,Shuriv.GiveItems,96
+line:096e536,Shuriv: Sabía que no me decepcionarás,NPC Shuriv,Shuriv.GiveItems,97
+line:0b54355,"Player: Si bueno,",NPC Shuriv,Shuriv.GiveItems,98
+line:0e30774,Player: Ahora liberarás a <color hex=0392cf>Anak</color>?,NPC Shuriv,Shuriv.GiveItems,99
+line:02f5e69,Shuriv: Ya lo hice.,NPC Shuriv,Shuriv.GiveItems,100
+line:069f888,Shuriv: Dijo que irá con su papá.,NPC Shuriv,Shuriv.GiveItems,101
+line:08aed6f,"Shuriv: Se dirige a Loading Bar, creo.",NPC Shuriv,Shuriv.GiveItems,102
+line:05ec2c6,"Gracias, supongo",NPC Shuriv,Shuriv.GiveItems,103
+line:082f255,Bueno,NPC Shuriv,Shuriv.GiveItems,104
+line:0d01031,Player: Entonces será mejor que vuelva a Loading Bar.,NPC Shuriv,Shuriv.GiveItems,105

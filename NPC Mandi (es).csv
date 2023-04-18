@@ -1,0 +1,61 @@
+id,text,file,node,lineNumber
+line:0e347af,"Mandi: Hace un buen clima, ¿verdad?",NPC Mandi,Mandi.Start,7
+line:0cbb70a,Player: El clima siempre es así.,NPC Mandi,Mandi.Start,8
+line:091bd11,"Player: Además, este lugar es solo un programa.",NPC Mandi,Mandi.Start,9
+line:07b6445,Mandi: Solo aprecialo y tendrás una vida mejor.,NPC Mandi,Mandi.Start,10
+line:0a13958,Player: Si.,NPC Mandi,Mandi.Start,11
+line:0b05a80,Mandi: El clima es realmente bueno después de todo.,NPC Mandi,Mandi.Start,16
+line:0ba8684,Player: Para.,NPC Mandi,Mandi.Start,17
+line:0fa1f0e,Mandi: Quieres jugar?,NPC Mandi,Mandi.Start,22
+line:0941f79,No. Más tarde.,NPC Mandi,Mandi.Start,23
+line:0fdc1e1,Esta vez será fácil.,NPC Mandi,Mandi.Start,25
+line:0c5af69,Mandi: Tomate tu tiempo.,NPC Mandi,Mandi.Start,24
+line:0345405,Mandi: <shake>GOOOOO</shake>,NPC Mandi,Mandi.Start,26
+line:0a2de08,Player: <shake>GOOOOOOO</shake>,NPC Mandi,Mandi.Start,27
+line:01be4be,Mandi: Mira como está el clima.,NPC Mandi,Mandi.Start,34
+line:08a7d38,Player: No quiero hablar del clima.,NPC Mandi,Mandi.Start,35
+line:06d6c8b,Player: Quién eres tú?,NPC Mandi,Mandi.Start,36
+line:00acdd3,Mandi: Mi nombre es <color hex=0392cf>Mandi</color>.,NPC Mandi,Mandi.Start,37
+line:0cefb75,"Player: Bueno, <color hex=0392cf>Mandi</color>. Es una emergencia. Necesito algo;",NPC Mandi,Mandi.Start,38
+line:091c26e,"Mandi: Qué es lo que buscas, pequeña?",NPC Mandi,Mandi.Start,39
+line:09c3ee6,Una bañera,NPC Mandi,Mandi.Start,40
+line:03e817d,Un arma de destrucción masiva,NPC Mandi,Mandi.Start,46
+line:0a41485,Mandi: <wave>Ahhh ya veo.</wave>,NPC Mandi,Mandi.Start,41
+line:0fbf2d3,Mandi: Te sentirás mucho más sabio después de una sesión de relajación.,NPC Mandi,Mandi.Start,42
+line:00dd8cd,"Player: Sí, pero no quiero darme un baño.",NPC Mandi,Mandi.Start,43
+line:0a0f759,Player: Lo necesito para otra cosa.,NPC Mandi,Mandi.Start,44
+line:07fcc15,Mandi: Demasiado.,NPC Mandi,Mandi.Start,45
+line:0bca846,Mandi: ???????,NPC Mandi,Mandi.Start,47
+line:06548ec,Player: .......,NPC Mandi,Mandi.Start,48
+line:0161526,Mandi: No puedes destruir este lugar.,NPC Mandi,Mandi.Start,49
+line:0f7066c,Player: Por qué?,NPC Mandi,Mandi.Start,50
+line:03961ab,Mandi: Solo el dueño de este programa puede.,NPC Mandi,Mandi.Start,51
+line:0478e63,Player: Sí claro.,NPC Mandi,Mandi.Start,52
+line:0b91901,"Player: De hecho, necesito una bañera.",NPC Mandi,Mandi.Start,53
+line:0ef4090,Mandi: ......,NPC Mandi,Mandi.Start,54
+line:02c082f,"Player: Entonces, tienes una?",NPC Mandi,Mandi.Start,55
+line:02fb08b,Mandi: Por supuesto.,NPC Mandi,Mandi.Start,56
+line:028ad1f,Player: Dámelo,NPC Mandi,Mandi.Start,57
+line:0a50289,Player: Es una emergencia.,NPC Mandi,Mandi.Start,58
+line:0ddfb7c,"Mandi: Mira, pequeña. Tu problema no es mi problema .",NPC Mandi,Mandi.Start,59
+line:0f0d683,"Mandi: Pero si realmente lo quieres, debes hacerme un favor.",NPC Mandi,Mandi.Start,60
+line:027c04e,Player: Que favor?,NPC Mandi,Mandi.Start,61
+line:06b1c3e,Mandi: Vamos a jugar un juego!,NPC Mandi,Mandi.Start,62
+line:01ebf0b,Player: Oye...,NPC Mandi,Mandi.Start,63
+line:07aee9a,Mandi: Qué?,NPC Mandi,Mandi.Start,64
+line:0bc256b,Player: Ya estamos en un videojuego.,NPC Mandi,Mandi.Start,65
+line:09efae2,Mandi: Lo sé.,NPC Mandi,Mandi.Start,66
+line:0981aa2,Mandi: <wave>Estas asustada?</wave>,NPC Mandi,Mandi.Start,67
+line:059755c,"Player: Bueno, bueno. ¿Que juego?",NPC Mandi,Mandi.Start,68
+line:02c76c1,Mandi: Un juego de pong. Uno muy clásico.,NPC Mandi,Mandi.Start,69
+line:0254d16,Aburridoooo...,NPC Mandi,Mandi.Start,70
+line:0a209d4,Será pan comido!,NPC Mandi,Mandi.Start,72
+line:0031e8b,Mandi: Adiós entonces.,NPC Mandi,Mandi.Start,71
+line:0bef1b3,Mandi: <shake>GOOOOO</shake>,NPC Mandi,Mandi.Start,73
+line:043681e,Player: <shake>GOOOOOOO</shake>,NPC Mandi,Mandi.Start,74
+line:0d5be69,"Player: Ves?, fue pan comido.",NPC Mandi,Mandi.AfterGame,84
+line:03f3329,Mandi: Bien hecho.,NPC Mandi,Mandi.AfterGame,85
+line:0cfc436,Mandi: Ahora.,NPC Mandi,Mandi.AfterGame,87
+line:083e444,Mandi: Mira este hermoso clima.,NPC Mandi,Mandi.AfterGame,88
+line:0da6ceb,Player: <shake>No no no no.</shake>,NPC Mandi,Mandi.AfterGame,89
+line:0216d43,Player: Te veo luego.,NPC Mandi,Mandi.AfterGame,90

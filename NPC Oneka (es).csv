@@ -1,0 +1,42 @@
+id,text,file,node,lineNumber
+line:0f3b23a,"Oneka: Hola, <color hex=FF97A8>Memu@</color>",NPC Oneka,Oneka.Start,7
+line:0553d97,Oneka: Estoy seguro de que comenzarás el juego pronto!,NPC Oneka,Oneka.Start,8
+line:0e409e8,Oneka: Buena suerte!,NPC Oneka,Oneka.Start,9
+line:09d190d,"Player: Hola, <color hex=FF97A8>Oneka</color>!",NPC Oneka,Oneka.Start,13
+line:0c46036,"Oneka: Oh hola, <color hex=FF97A8>Memu@</color>!",NPC Oneka,Oneka.Start,14
+line:07e2106,Oneka: Qué estás haciendo aquí?,NPC Oneka,Oneka.Start,15
+line:07b3b04,Oneka: No va a empezar el juego?,NPC Oneka,Oneka.Start,16
+line:0b39d78,"Player: Sí, esa es la cuestión.",NPC Oneka,Oneka.Start,17
+line:0efdc8e,"Player: La carga se atasca, de alguna manera.",NPC Oneka,Oneka.Start,18
+line:05accac,Oneka: <shake>Qué?? Cómo??/shake>,NPC Oneka,Oneka.Start,19
+line:044bf6b,No tengo ni idea,NPC Oneka,Oneka.Start,23
+line:065cb49,No sé ni me importa.,NPC Oneka,Oneka.Start,24
+line:0f0fff8,Player: Es  <color hex=0392cf>Dunia</color>.,NPC Oneka,Oneka.Start,27
+line:0a0ebea,Player: Algunos de los datos del mundo se perdieron.,NPC Oneka,Oneka.Start,28
+line:0747e97,Oneka: <shake>Oh no!</shake>,NPC Oneka,Oneka.Start,29
+line:0d3653e,"Player: No te preocupes, los recuperaré!",NPC Oneka,Oneka.Start,30
+line:085557a,Oneka: Sé que podemos contar contigo!,NPC Oneka,Oneka.Start,31
+line:0810438,"Oneka: Buena suerte , <color hex=FF97A8>Memu@</color>!",NPC Oneka,Oneka.Start,32
+line:051b361,Player: Gracias!,NPC Oneka,Oneka.Start,33
+line:001fc77,Player: Eso es lo que estoy tratando de averiguar.,NPC Oneka,Oneka.Findout,43
+line:0e7b173,Player: Me puedes ayudar?,NPC Oneka,Oneka.Findout,44
+line:06332e9,Oneka: Por supuesto?,NPC Oneka,Oneka.Findout,45
+line:038d22b,Player: Puedes comprobar si alguno de tus personajes causó esto?,NPC Oneka,Oneka.Findout,46
+line:0f0c80f,"Oneka: No, no lo creo..",NPC Oneka,Oneka.Findout,47
+line:054fc97,Oneka: Todos los personajes ya están cargados en la memoria.,NPC Oneka,Oneka.Findout,48
+line:0364320,"Player: Ah, bueno, valía la pena preguntar.",NPC Oneka,Oneka.Findout,49
+line:0889caf,Oneka: Tal vez puedas consultarle a <color hex=0392cf>Dunia</color>?,NPC Oneka,Oneka.Findout,50
+line:075b0e2,"Player: Sí, lo haré.",NPC Oneka,Oneka.Findout,51
+line:0198226,"Player: Gracias, <color hex=FF97A8>Oneka</color>!",NPC Oneka,Oneka.Findout,52
+line:0ecd506,Oneka: <shake>Qué??</shake>,NPC Oneka,Oneka.Dontcare,61
+line:05fec54,Oneka: Pero deberías!,NPC Oneka,Oneka.Dontcare,62
+line:0a4c8db,Oneka: Debes!,NPC Oneka,Oneka.Dontcare,63
+line:0ca959e,Pero por qué??,NPC Oneka,Oneka.Dontcare,65
+line:0bc8e39,Bueno,NPC Oneka,Oneka.Dontcare,66
+line:0fd2449,"Oneka: Si el juego no se carga, es posible que lo reemplacen con programas mejores y más nuevos.",NPC Oneka,Oneka.Whyy,74
+line:0d282b6,Oneka: O peor!,NPC Oneka,Oneka.Whyy,75
+line:0871256,Player: Cómo puede ser peor?,NPC Oneka,Oneka.Whyy,76
+line:081a5fe,Oneka: Es posible que lo eliminen permanentemente!,NPC Oneka,Oneka.Whyy,77
+line:0b68e64,Oneka: Siendo borrado de todo el sistema!,NPC Oneka,Oneka.Whyy,78
+line:03e0465,Esta bien,NPC Oneka,Oneka.Whyy,80
+line:023bfdd,"Ugh, Bueno",NPC Oneka,Oneka.Whyy,81
